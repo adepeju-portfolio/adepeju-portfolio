@@ -1,5 +1,6 @@
 # Adepeju Adekola
 **Data Analyst**
+
 Passionate Data Analyst skilled in transforming raw transactional data into clean, structured, and visually compelling dashboards. Focused on leveraging Power BI, SQL, and Excel to deliver data-backed insights that support business decisions.
 
 ---
