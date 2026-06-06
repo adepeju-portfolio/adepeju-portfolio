@@ -1,20 +1,10 @@
 # Adepeju Adekola
-
 **Data Analyst**
-
 Passionate Data Analyst skilled in transforming raw transactional data into clean, structured, and visually compelling dashboards. Focused on leveraging Power BI, SQL, and Excel to deliver data-backed insights that support business decisions.
-
-<!-- Visual Tech Badges -->
-<div>
-  <img src="https://shields.io" alt="Power BI Badge" />
-  <img src="https://shields.io" alt="SQL Badge" />
-  <img src="https://shields.io" alt="Excel Badge" />
-  <img src="https://shields.io" alt="GitHub Badge" />
-</div>
 
 ---
 
-## 🔍 Analytical Approach & Storytelling
+## 🔍 Core Focus
 
 * **Translating Data to Strategy:** Turning messy, raw datasets into reliable, structured narratives that reveal operational strengths and weaknesses.
 * **User-Centric Dashboard Design:** Crafting interactive visual layouts that guide stakeholders from high-level summaries directly down to root causes.
